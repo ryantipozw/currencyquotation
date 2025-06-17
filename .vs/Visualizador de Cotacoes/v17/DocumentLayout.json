@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ryanm\\source\\repos\\Visualizador de Cotacoes\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA5293D-4EFA-4620-A5C2-3DAD509440E2}|Visualizador de Cotacoes\\Visualizador de Cotacoes.csproj|c:\\users\\ryanm\\source\\repos\\visualizador de cotacoes\\visualizador de cotacoes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA5293D-4EFA-4620-A5C2-3DAD509440E2}|Visualizador de Cotacoes\\Visualizador de Cotacoes.csproj|solutionrelative:visualizador de cotacoes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 133,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ryanm\\source\\repos\\Visualizador de Cotacoes\\Visualizador de Cotacoes\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Visualizador de Cotacoes\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ryanm\\source\\repos\\Visualizador de Cotacoes\\Visualizador de Cotacoes\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "Visualizador de Cotacoes\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:13:50.252Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"

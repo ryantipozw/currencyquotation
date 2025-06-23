@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Currency Quotation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb13dcfd4ec68e14481d1ff279ea3c358e00da35")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3a9bffe3fe86d1fca15cbb3db8bd2de7f5a9541")]
 [assembly: System.Reflection.AssemblyProductAttribute("Currency Quotation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Currency Quotation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ryanm\\source\\repos\\Currency Quotation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{74621CC8-E5EC-4FA8-AC02-A62B76640156}|Currency Quotation\\Currency Quotation.csproj|c:\\users\\ryanm\\source\\repos\\currency quotation\\currency quotation\\model\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74621CC8-E5EC-4FA8-AC02-A62B76640156}|Currency Quotation\\Currency Quotation.csproj|solutionrelative:currency quotation\\model\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74621CC8-E5EC-4FA8-AC02-A62B76640156}|Currency Quotation\\Currency Quotation.csproj|c:\\users\\ryanm\\source\\repos\\currency quotation\\currency quotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74621CC8-E5EC-4FA8-AC02-A62B76640156}|Currency Quotation\\Currency Quotation.csproj|solutionrelative:currency quotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -31,11 +35,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\ryanm\\source\\repos\\Currency Quotation\\Currency Quotation\\Model\\Currency.cs",
+              "RelativeDocumentMoniker": "Currency Quotation\\Model\\Currency.cs",
+              "ToolTip": "C:\\Users\\ryanm\\source\\repos\\Currency Quotation\\Currency Quotation\\Model\\Currency.cs",
+              "RelativeToolTip": "Currency Quotation\\Model\\Currency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T20:03:39.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ryanm\\source\\repos\\Currency Quotation\\Currency Quotation\\Program.cs",
               "RelativeDocumentMoniker": "Currency Quotation\\Program.cs",
-              "ToolTip": "C:\\Users\\ryanm\\source\\repos\\Currency Quotation\\Currency Quotation\\Program.cs*",
-              "RelativeToolTip": "Currency Quotation\\Program.cs*",
+              "ToolTip": "C:\\Users\\ryanm\\source\\repos\\Currency Quotation\\Currency Quotation\\Program.cs",
+              "RelativeToolTip": "Currency Quotation\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T19:06:42.837Z",

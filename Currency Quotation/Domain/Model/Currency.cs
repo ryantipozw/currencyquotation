@@ -1,7 +1,6 @@
-﻿
-using System.Text.Json.Serialization;
+﻿using System.Text.Json.Serialization;
 
-namespace Currency_Quotation.Model;
+namespace Currency_Quotation.Domain.Model;
 
 public class Currency
 {

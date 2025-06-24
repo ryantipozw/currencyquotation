@@ -16,4 +16,5 @@ public class Currency
 	public decimal PreviousClosure { get; set; }
 	[JsonPropertyName("dataAtualizacao")]
 	public DateTime UpdateDate { get; set; }
+	public bool IsEmpty { get; set; }
 }
